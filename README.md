@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cloud DevOps Engineer from India</h3>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=8A35F7&center=true&lines=Impress+yourself;Do+what+you+love!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=8A35F7&center=true&lines=Be+Unstopable;Beleive+Yourself;Never+GiveUp;Do+what+you+love!)](https://git.io/typing-svg)
 
 </div>
 
